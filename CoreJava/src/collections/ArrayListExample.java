@@ -1,6 +1,7 @@
 package collections;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class ArrayListExample {
 	public static void main(String[] args) {
@@ -19,6 +20,7 @@ public class ArrayListExample {
 		list1.add("John");
 		list1.add(null);
 
+		// To print entire list
 		// To print entire list
 		System.out.println("The list is " + list1);
 		System.out.println("The size of the list is " + list1.size());
