@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="D:/Aneetha/Testing/Simplilearn/Softwares/Selenium-20230324T023103Z-001/Selenium/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="D:/Aneetha/Testing/Simplilearn/Softwares/Selenium-20230324T023103Z-001/Selenium/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="D:/Aneetha/Testing/Simplilearn/Softwares/Selenium-20230324T023103Z-001/Selenium/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Aneetha/Testing/Simplilearn/Softwares/commons-io-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

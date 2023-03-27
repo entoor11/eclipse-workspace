@@ -60,11 +60,11 @@ public class ArrayListExample {
 			System.out.println(itr.next());
 		}
 
-		Collections.sort(list1);
-		System.out.println("After sorting the list " + list1);
+		//Collections.sort(list1);
+		//System.out.println("After sorting the list " + list1);
 
-		Collections.sort(list1, Collections.reverseOrder());
-		System.out.println("After sorting in descending order " + list1);
+		//Collections.sort(list1, Collections.reverseOrder());
+		//System.out.println("After sorting in descending order " + list1);
 
 	}
 
